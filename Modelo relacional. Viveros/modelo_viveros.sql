@@ -1,6 +1,8 @@
 
 DROP DATABASE IF EXISTS viveros;
 
+/* Crear Bases de datos 'VIVEROS' */
+
 CREATE DATABASE IF NOT EXISTS viveros;
 
 START TRANSACTION;
